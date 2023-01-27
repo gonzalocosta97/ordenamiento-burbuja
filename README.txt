@@ -1,0 +1,1 @@
+Se propone desarrollar un ejemplo de ordenamiento de array de enteros a través del método burbuja.
